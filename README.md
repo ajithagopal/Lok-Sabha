@@ -1,5 +1,3 @@
-# TH-Files
-
 # Lok Sabha Visual Story
 
 # Live URL : https://www.thehindu.com/infographics/2024-04-17/previous-lok-sabha-elections-since-independence/index.html
